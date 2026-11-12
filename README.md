@@ -18,3 +18,5 @@ and visit http://localhost:8000/ with your browser.
 | Briana Gude | Sharp Eyes for Styles, Code, and Remote Pairing         |
 | Ryker Lee   | All the Knocks and More                                 |
 | Jeff Miller | Mozilla Developer Network and Browser Inspector Fan Boy |
+
+![Knock Pad UI Preview](./knock-pad-web-ui.png)
